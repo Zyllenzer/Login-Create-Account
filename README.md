@@ -9,5 +9,6 @@ It  is just take the user username and password to store into a database when a 
 
 HOW TO USE IT?
 Just change the mysqli_connect = to the specific parameter to run the server locally in your device and it will run 
+
 IS THIS LICENSCE FREE?
 Yes you can use this as long as you learning programming hopefully I can help you in you r studies happy coding 
