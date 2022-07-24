@@ -1,0 +1,18 @@
+.btn_tar {
+  padding: 10px;
+  font-weight: bolder;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.btn_tar:link {
+  color: black;
+  background-color: white;
+}
+.btn_tar:hover {
+  color: white;
+  background-color: black;
+  transition: ease-in-out 0.5s;
+}
+
+.li-tar:hover {
+  font-weight: bolder;
+}
